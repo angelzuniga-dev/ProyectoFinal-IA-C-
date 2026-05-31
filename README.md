@@ -1,7 +1,4 @@
-# ProyectoFinal-IA-C-
-
-Aquí tienes una descripción formal, atractiva y bien estructurada para tu proyecto. Puedes utilizarla para el archivo README.md de tu repositorio de GitHub, para la documentación del código o para presentarla ante tus compañeros o clientes.
-
+# ProyectoFinal | Agente IA + C#
 Agente Viernes: Asistente de Programación en C# con Groq API
 Este proyecto es una aplicación de consola desarrollada en C# (.NET) que implementa un agente de Inteligencia Artificial conversacional llamado Viernes. El agente utiliza la infraestructura de Groq y el modelo de lenguaje de última generación Llama 3.3 (70B) para ofrecer respuestas rápidas, precisas y especializadas en desarrollo de software, actuando como un copiloto de programación interactivo directamente en la terminal.
 
