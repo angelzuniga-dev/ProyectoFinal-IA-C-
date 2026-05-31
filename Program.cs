@@ -17,7 +17,6 @@ class Agente
 
     static async Task Main()
     {
-        Console.WriteLine("=== AGENTE VIERNES - IA CON GROQ ===");
         Console.WriteLine("Hola! Soy Viernes, tu asistente de programación.");
         Console.WriteLine("Escribe tu pregunta. Escribe 'salir' para terminar.\n");
 
